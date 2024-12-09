@@ -1,1 +1,1 @@
-# Advance-Filtering
+"I have developed a responsive landing page for an e-commerce app, featuring dynamic functionality to enhance user interaction. The page includes sorting and filtering options, enabling users to easily select categories, browse products, and refine their search based on preferences such as price range, popularity, or featured items. With a clean design and seamless navigation, the landing page delivers an intuitive and engaging shopping experience, encouraging visitors to explore and purchase products effortlessly."
